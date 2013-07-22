@@ -3,7 +3,7 @@
 ### Quick Start
 
 ```bash
-mrt add sietmaps
+mrt add sitemaps
 ```
 
 1. Create <code>server/sitemaps.js</code> which contains something like:
